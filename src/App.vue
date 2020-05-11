@@ -5,6 +5,7 @@
   </div>
 </template>
 
+
 <script>
 import Note from './Note.vue'
 import Noteslist from './Noteslist.vue'
